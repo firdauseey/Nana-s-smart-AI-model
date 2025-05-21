@@ -1,0 +1,6 @@
+ultralytics==8.0.20
+gradio
+numpy
+opencv-python-headless
+gTTS==2.3.2
+pillow
